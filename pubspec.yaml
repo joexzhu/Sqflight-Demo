@@ -1,6 +1,9 @@
 name: flutter_app
 description: My journey to learn flutter.
 
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
 dependencies:
   flutter:
     sdk: flutter
